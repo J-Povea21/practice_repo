@@ -1,0 +1,9 @@
+1. Crear una segunda branch. La rama se crea en base al ultimo commit realizado
+2. Comando para crear la branch: git checkout -b branch_name . Automáticamente me lleva a la otra rama
+3. Con git branch veo cuáles son las ramas
+4. ¿Cómo hacemos para hacer la branch en la nube? Usamos el comando: git push --set-upstream origin branch_name
+5. Recomendacones: crear una branch para cada developer. Si el equipo es muy grande, se crean branch para cada feature
+6. ¿Cómo moverse entre branchs? Comando: git checkout branch_name
+7. Si solo modificamos el archivo, podemos hacer el commit con : git commit am-"commit message"
+8. Si no se aprueba el pull request, todos los cambios se iran actualizando en la pull request
+9. El merge cuenta como commit
