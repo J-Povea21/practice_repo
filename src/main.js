@@ -1,1 +1,2 @@
-console.log('Merge conflict!');
+console.log('Random changes.Merge conflict!');
+
