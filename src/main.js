@@ -1,2 +1,2 @@
 let print = (message) => console.log(message)
-print('Random changes.Merge conflict!!');
+print('Random changes.Merge conflict!!!');
